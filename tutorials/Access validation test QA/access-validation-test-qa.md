@@ -2,7 +2,7 @@
 title: Access validation test QA
 description: ADMINTOOL final
 tags: [tutorial>advanced, topic>abap-extensibility]
-primary_tag: products>software-product>SAP-Mobile-Services
+primary_tag: software-product>SAP-Mobile-Services
 time: 50 min
 ---
 
