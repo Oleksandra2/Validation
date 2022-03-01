@@ -8,6 +8,9 @@ primary_tag: products>sap-hana--express-edition
 parser: v2
 ---
 
+## Prerequisites  
+ - **Proficiency:** Beginner 
+ - **Web IDE** If you don't have the Web IDE open, follow these steps: [Enable and open the HANA Cloud Platform Web IDE](https://go.sap.com/developer/tutorials/sapui5-webide-open-webide.html)
 
 ### You will learn
   - How to induce an artificial error or exception in your message pipeline
